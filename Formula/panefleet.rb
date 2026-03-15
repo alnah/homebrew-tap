@@ -1,8 +1,8 @@
 class Panefleet < Formula
   desc "tmux workboard plugin for agent panes"
   homepage "https://github.com/alnah/panefleet"
-  url "https://github.com/alnah/panefleet/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "52d457a0ee3049b64170e9167da4f98ebf198681de1309593dc3ca6165b51a7e"
+  url "https://github.com/alnah/panefleet/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "14518d741af992a9ba01eb981946152c9d66ef4a2c5d3ec9243fde05ab08d4c4"
   head "https://github.com/alnah/panefleet.git", branch: "main"
 
   depends_on "bash"
